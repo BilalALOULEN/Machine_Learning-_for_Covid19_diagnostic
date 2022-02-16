@@ -1,1 +1,1 @@
-# Machine_Learning-_for_Covid19_diagnostic
+# Machine_Learning_for_Covid19_diagnostic
